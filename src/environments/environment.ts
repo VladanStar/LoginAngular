@@ -3,6 +3,15 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
+  firebase: {
+    projectId: 'book-library-3a955',
+    appId: '1:519926474246:web:1059de498ab747883c0587',
+    databaseURL: 'https://book-library-3a955-default-rtdb.europe-west1.firebasedatabase.app',
+    storageBucket: 'book-library-3a955.appspot.com',
+    apiKey: 'AIzaSyAwKi8goa4iUDfru2cr2kAUk_a4dmr9VAA',
+    authDomain: 'book-library-3a955.firebaseapp.com',
+    messagingSenderId: '519926474246',
+  },
 firebaseConfig : {
     apiKey: "AIzaSyAwKi8goa4iUDfru2cr2kAUk_a4dmr9VAA",
     authDomain: "book-library-3a955.firebaseapp.com",
