@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "book-library-3a955": {
+      "hosting": {
+        "project01": [
+          "book-library-3a955"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "book-library-3a955"
+  }
+}
